@@ -2,10 +2,6 @@ ab65a7f30f7ed8b1587d053
 85a22df927055dd94a35264503b12f096dabb77e ben je voor ajax of feijenoord? - ADO Den Haag
 Hoe was je verjaardag? - eb9a9b9fddcb47c736ec3798f0afce8cce2f406d - Het was leuk
 Heb je nog wat raars gezien op het feestje? - 216b0e47228580d701ccb20f54d6ff68747ad69a - David had een knuppel mee. Volgens mij.
-<<<<<<< HEAD
 Heb je een alibi voor de avond van de moord en kan iemand dit bevestigen? - 0366b8bce6db84a981d166ea113108881ffb49e7
 Wat doe je dagelijks voor werk? - 56a659a4217ce2080acdbc1b83255efeae42e0c5
-=======
-
 Benjamin - Wat je lievelingsdier? - da068bb02c2bb4094619929f375a63142808843c
->>>>>>> 01937919be6fb5b9a1a508255cfe8267439c0b47
