@@ -5,3 +5,7 @@ bbc42a8b9982f68b56ccf8acb0bc7e27104ab3e6 - Hoe voel je je?
 Hoe is jouw band met Patricia? - 7c336d739935f8d811bb5e197a50756b30dc4cb7
 Cluelia - Wat doe je dagelijks voor werk? - b528aa6847b38656b7421994c3a7096388d838f2
 Heb je een alibi voor de avond van de moord en kan iemand dit bevestigen? - d13b998ad054a4e210c395dd7448d5247f085b18
+
+Hadden jullie vaak ruzie? - b97344cb641298775db83b1417d22f25c0fce0ba
+Is je iets vreemds opgevallen afgelopen dagen? - 3cafa2806ff4733f9020eeadd7ba0de0a01892ed
+Cluelia - Wat is de laatste keer dat je David nog in levende lijve gezien hebt? - f0ff9055d5d035350f1f3003d4dc0924efcd99d2
